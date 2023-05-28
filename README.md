@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alisaslan.com/](https://alisaslan.com/)
 
-- 💬 Ask me about **PHP, Laravel, Zend,**
+- 💬 Ask me about **PHP, Laravel, Zend,Phalcon Frameworks**
 
 - 📫 How to reach me **info@alisaslan.com**
 
