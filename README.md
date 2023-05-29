@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of informations are available at [https://alisaslan.com/](https://alisaslan.com/)
+- 👨‍💻 All of informations are available at [https://alisaslan.com/?ref=github](https://alisaslan.com/)
 
 - 💬 Ask me about **PHP, Laravel, Zend, Phalcon Frameworks**
 
